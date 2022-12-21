@@ -1,1 +1,3 @@
 Hello let's Start git
+
+day 01 - basics
